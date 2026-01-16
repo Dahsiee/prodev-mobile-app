@@ -1,5 +1,5 @@
 import { View, Text, TextInput, TouchableOpacity } from "react-native";
-import { styles } from "../styles/_joinstyle";
+import { styles } from "../styles/_join";
 
 export default function JoinScreen() {
   return (
